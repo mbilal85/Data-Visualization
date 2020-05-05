@@ -133,7 +133,7 @@ plt.clf()
 ```
 
 
-![png](output_4_0.png)
+![output_4_0](https://user-images.githubusercontent.com/49030506/81031988-4d1b6d80-8e5c-11ea-966a-ee0ee991a059.png)
 
 
 
@@ -156,7 +156,7 @@ plt.clf()
 ```
 
 
-![png](output_6_0.png)
+![output_6_0](https://user-images.githubusercontent.com/49030506/81031989-4db40400-8e5c-11ea-80b9-1f0964cf5cc1.png)
 
 
 
@@ -177,7 +177,7 @@ plt.show()
 ```
 
 
-![png](output_8_0.png)
+![output_8_0](https://user-images.githubusercontent.com/49030506/81031990-4db40400-8e5c-11ea-9a50-3c14133fb9a2.png)
 
 
 The distplot() function can be configured with multiple different arguments. By disabling the KDE output, you have created a histogram.
@@ -196,7 +196,7 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![output_10_0](https://user-images.githubusercontent.com/49030506/81031991-4db40400-8e5c-11ea-88f4-e860650163b2.png)
 
 
 There are a large group of award amounts < $400K.
@@ -327,7 +327,7 @@ plt.show()
 ```
 
 
-![png](output_15_0.png)
+![output_15_0](https://user-images.githubusercontent.com/49030506/81031992-4e4c9a80-8e5c-11ea-9dad-e4a01de7f4f6.png)
 
 
 The regression line hints that there will be an increase in premiums as insurance losses increase. The lower level regplot() and higher level lmplot() are similar. They produce the similar output. However, the lmplot is much more powerful. The use of hue and columns is a powerful concept that is present throughout many of Seaborn’s functions. The use of plotting multiple graphs while changing a single variable is often called faceting. Faceting can be accomplished by using lmplot() function. The base function is very similar to regplot() but it provides much more power by allowing us to add additional information using columns, colors or rows. Proceeding, I will be using the regplot() and lmplot() functions to analyze different datasets. 
@@ -344,7 +344,7 @@ plt.show()
 ```
 
 
-![png](output_17_0.png)
+![output_17_0](https://user-images.githubusercontent.com/49030506/81031993-4e4c9a80-8e5c-11ea-9127-7f68109905eb.png)
 
 
 The output looks similar. 
@@ -362,7 +362,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![output_19_0](https://user-images.githubusercontent.com/49030506/81031994-4ee53100-8e5c-11ea-9c6c-30806ecb5570.png)
 
 
 The results are a bit difficult to read. Maybe using multiple lines is not the best approach. 
@@ -380,7 +380,7 @@ plt.show()
 ```
 
 
-![png](output_21_0.png)
+![output_21_0](https://user-images.githubusercontent.com/49030506/81031995-4ee53100-8e5c-11ea-8319-ecf7f79f3aa4.png)
 
 
 Faceting the data across multiple rows or columns can be a good way to see variable interactions in the data. The lmplot function supports plotting regression data by column, row and hue. This concept is used repeatedly throughout Seaborn.
@@ -412,11 +412,11 @@ plt.clf()
 ```
 
 
-![png](output_25_0.png)
+![output_25_0](https://user-images.githubusercontent.com/49030506/81031996-4f7dc780-8e5c-11ea-9042-2dd058187ef1.png)
 
 
 
-![png](output_25_1.png)
+![output_25_1](https://user-images.githubusercontent.com/49030506/81031997-4f7dc780-8e5c-11ea-9105-e5e9a6825e4a.png)
 
 
 
@@ -448,11 +448,11 @@ plt.clf()
 ```
 
 
-![png](output_27_0.png)
+![output_27_0](https://user-images.githubusercontent.com/49030506/81031999-4f7dc780-8e5c-11ea-9530-d056194be96d.png)
 
 
 
-![png](output_27_1.png)
+![output_27_1](https://user-images.githubusercontent.com/49030506/81032001-4f7dc780-8e5c-11ea-9066-0092b3be84df.png)
 
 
 
@@ -485,7 +485,7 @@ plt.clf()
 ```
 
 
-![png](output_30_0.png)
+![output_30_0](https://user-images.githubusercontent.com/49030506/81032002-50165e00-8e5c-11ea-8698-fbba0ec2a4c4.png)
 
 
 
@@ -509,7 +509,7 @@ plt.show()
 ```
 
 
-![png](output_33_0.png)
+![output_33_0](https://user-images.githubusercontent.com/49030506/81032003-50165e00-8e5c-11ea-8b61-de9a8e1e29ab.png)
 
 
 This is a quick way to modify the colors of a plot.
@@ -527,11 +527,11 @@ for p in ['bright', 'colorblind']:
 ```
 
 
-![png](output_35_0.png)
+![output_35_0](https://user-images.githubusercontent.com/49030506/81032004-50165e00-8e5c-11ea-9c63-e1c7323f98a6.png)
 
 
 
-![png](output_35_1.png)
+![output_35_1](https://user-images.githubusercontent.com/49030506/81032005-50aef480-8e5c-11ea-9323-af14f013ecc4.png)
 
 
 
@@ -563,15 +563,15 @@ plt.show()
 ```
 
 
-![png](output_38_0.png)
+![output_38_0](https://user-images.githubusercontent.com/49030506/81032006-50aef480-8e5c-11ea-9e35-ebcdc9097b8c.png)
 
 
 
-![png](output_38_1.png)
+![output_38_1](https://user-images.githubusercontent.com/49030506/81032007-50aef480-8e5c-11ea-8b83-3e4dd117a104.png)
 
 
 
-![png](output_38_2.png)
+![output_38_2](https://user-images.githubusercontent.com/49030506/81032008-50aef480-8e5c-11ea-857a-2fb11d7c4922.png)
 
 
 Color palette possibilities are limitless. Using these helper functions allows to create unique and visually appealing plots that will stand out and get your points across.
@@ -598,7 +598,7 @@ plt.show()
 ```
 
 
-![png](output_41_0.png)
+![output_41_0](https://user-images.githubusercontent.com/49030506/81032009-51478b00-8e5c-11ea-9c7a-b838bb63f2ae.png)
 
 
 ###### Additional plot customizations
@@ -623,7 +623,7 @@ plt.show()
 ```
 
 
-![png](output_43_0.png)
+![output_43_0](https://user-images.githubusercontent.com/49030506/81032010-51478b00-8e5c-11ea-900c-768a52da9c3e.png)
 
 
 Making these types of customizations to the plots can really improve their impact.
@@ -656,7 +656,7 @@ plt.show()
 ```
 
 
-![png](output_46_0.png)
+![output_46_0](https://user-images.githubusercontent.com/49030506/81032011-51478b00-8e5c-11ea-9468-f032da6acfcc.png)
 
 
 ###### Multiple plots
@@ -683,7 +683,7 @@ plt.show()
 ```
 
 
-![png](output_48_0.png)
+![output_48_0](https://user-images.githubusercontent.com/49030506/81032012-51478b00-8e5c-11ea-9796-e0242c188ee8.png)
 
 
 ###### Stripplot() and swarmplot()
@@ -716,11 +716,11 @@ plt.show()
 ```
 
 
-![png](output_50_0.png)
+![output_50_0](https://user-images.githubusercontent.com/49030506/81032013-51e02180-8e5c-11ea-98b1-e0293964ddd4.png)
 
 
 
-![png](output_50_1.png)
+![output_50_1](https://user-images.githubusercontent.com/49030506/81032014-51e02180-8e5c-11ea-9dcb-8a9c62efdeea.png)
 
 
 ###### Categorical Plot Types
@@ -793,11 +793,11 @@ plt.clf()
 ```
 
 
-![png](output_53_0.png)
+![output_53_0](https://user-images.githubusercontent.com/49030506/81032015-51e02180-8e5c-11ea-8525-b14923dbc8df.png)
 
 
 
-![png](output_53_1.png)
+![output_53_1](https://user-images.githubusercontent.com/49030506/81032017-51e02180-8e5c-11ea-8b8a-85a64900811b.png)
 
 
     /opt/anaconda3/lib/python3.7/site-packages/seaborn/categorical.py:2612: UserWarning: The `lvplot` function has been renamed to `boxenplot`. The original name will be removed in a future release. Please update your code. 
@@ -821,7 +821,7 @@ plt.clf()
 
 
 
-![png](output_53_3.png)
+![output_53_3](https://user-images.githubusercontent.com/49030506/81032018-5278b800-8e5c-11ea-8947-db9388fcf94c.png)
 
 
 
@@ -873,15 +873,15 @@ plt.clf()
 ```
 
 
-![png](output_56_0.png)
+![output_56_0](https://user-images.githubusercontent.com/49030506/81032019-5278b800-8e5c-11ea-9404-087ceff4fb31.png)
 
 
 
-![png](output_56_1.png)
+![output_56_1](https://user-images.githubusercontent.com/49030506/81032020-5278b800-8e5c-11ea-9e9b-8016734ee94f.png)
 
 
 
-![png](output_56_2.png)
+![output_56_2](https://user-images.githubusercontent.com/49030506/81032021-5278b800-8e5c-11ea-88ec-3489c3531bcf.png)
 
 
 
@@ -1125,11 +1125,11 @@ plt.clf()
 ```
 
 
-![png](output_62_0.png)
+![output_62_0](https://user-images.githubusercontent.com/49030506/81032023-53114e80-8e5c-11ea-8270-61d362911f2a.png)
 
 
 
-![png](output_62_1.png)
+![output_62_1](https://user-images.githubusercontent.com/49030506/81032026-53114e80-8e5c-11ea-9f8f-1591cd11ba99.png)
 
 
 
@@ -1176,15 +1176,15 @@ plt.clf()
 ```
 
 
-![png](output_64_0.png)
+![output_64_0](https://user-images.githubusercontent.com/49030506/81032027-53a9e500-8e5c-11ea-9095-b9706adf8fd8.png)
 
 
 
-![png](output_64_1.png)
+![output_64_1](https://user-images.githubusercontent.com/49030506/81032028-53a9e500-8e5c-11ea-9ad8-a575b3426076.png)
 
 
 
-![png](output_64_2.png)
+![output_64_2](https://user-images.githubusercontent.com/49030506/81032029-53a9e500-8e5c-11ea-80a4-bf6539a41b14.png)
 
 
 
@@ -1239,15 +1239,15 @@ plt.clf()
 ```
 
 
-![png](output_67_0.png)
+![output_67_0](https://user-images.githubusercontent.com/49030506/81032030-53a9e500-8e5c-11ea-893b-7682f93b65a3.png)
 
 
 
-![png](output_67_1.png)
+![output_67_1](https://user-images.githubusercontent.com/49030506/81032031-54427b80-8e5c-11ea-8dea-7470c1838a97.png)
 
 
 
-![png](output_67_2.png)
+![output_67_2](https://user-images.githubusercontent.com/49030506/81032033-54427b80-8e5c-11ea-8218-0614ff8bfc17.png)
 
 
 
@@ -1412,7 +1412,7 @@ plt.show()
 
 
 
-![png](output_72_1.png)
+![output_72_1](https://user-images.githubusercontent.com/49030506/81032034-54427b80-8e5c-11ea-8ca6-6b068f7f8f2d.png)
 
 
 The lighter colors in above figure suggest higher frequency. Acting, media and politician are some of the main professions of the guests. 
@@ -1439,7 +1439,7 @@ plt.clf()
 ```
 
 
-![png](output_75_0.png)
+![output_75_0](https://user-images.githubusercontent.com/49030506/81032035-54427b80-8e5c-11ea-8237-d078b61af583.png)
 
 
 
@@ -1459,7 +1459,7 @@ sns.heatmap(corr, mask=mask, cmap=cmap, vmax=.9, center=0, square=True, linewidt
 ```
 
 
-![png](output_76_0.png)
+![output_76_0](https://user-images.githubusercontent.com/49030506/81032036-54db1200-8e5c-11ea-8626-a7a5ac039c10.png)
 
 
 Darker colors in red suggest a strong positive and in blue a strong negative relationship. 
@@ -1497,7 +1497,7 @@ plt.clf()
 
 
 
-![png](output_79_1.png)
+![output_79_1](https://user-images.githubusercontent.com/49030506/81032037-54db1200-8e5c-11ea-8dd5-a5fed575926b.png)
 
 
 
@@ -1515,7 +1515,7 @@ plt.show()
 ```
 
 
-![png](output_80_0.png)
+![output_80_0](https://user-images.githubusercontent.com/49030506/81032038-54db1200-8e5c-11ea-86ce-cb14e77440b6.png)
 
 
 ###### Using a factorplot
@@ -1558,7 +1558,7 @@ plt.clf()
 
 
 
-![png](output_82_1.png)
+![output_82_1](https://user-images.githubusercontent.com/49030506/81032039-5573a880-8e5c-11ea-96e1-1e013a267ac3.png)
 
 
     /opt/anaconda3/lib/python3.7/site-packages/seaborn/categorical.py:3666: UserWarning: The `factorplot` function has been renamed to `catplot`. The original name will be removed in a future release. Please update your code. Note that the default `kind` in `factorplot` (`'point'`) has changed `'strip'` in `catplot`.
@@ -1570,7 +1570,7 @@ plt.clf()
 
 
 
-![png](output_82_4.png)
+![output_82_4](https://user-images.githubusercontent.com/49030506/81032040-5573a880-8e5c-11ea-98b4-af5273407712.png)
 
 
 
@@ -1587,7 +1587,7 @@ with sns.axes_style(style='ticks'):
 ```
 
 
-![png](output_84_0.png)
+![output_84_0](https://user-images.githubusercontent.com/49030506/81032041-5573a880-8e5c-11ea-8422-e10abb1e8c03.png)
 
 
 ###### Using a lmplot
@@ -1642,7 +1642,7 @@ plt.clf()
 ```
 
 
-![png](output_86_0.png)
+![output_86_0](https://user-images.githubusercontent.com/49030506/81032042-5573a880-8e5c-11ea-9bf6-ff241c1fd441.png)
 
 
 
@@ -1650,7 +1650,7 @@ plt.clf()
 
 
 
-![png](output_86_2.png)
+![output_86_2](https://user-images.githubusercontent.com/49030506/81032043-5573a880-8e5c-11ea-9d2e-2a95fafabaf6.png)
 
 
 
@@ -1658,7 +1658,7 @@ plt.clf()
 
 
 
-![png](output_86_4.png)
+![output_86_4](https://user-images.githubusercontent.com/49030506/81032044-560c3f00-8e5c-11ea-8d9c-b0baf14f51d7.png)
 
 
 
@@ -1692,7 +1692,7 @@ plt.clf()
 ```
 
 
-![png](output_88_0.png)
+![output_88_0](https://user-images.githubusercontent.com/49030506/81032045-560c3f00-8e5c-11ea-9120-9a6002d47541.png)
 
 
 
@@ -1700,7 +1700,7 @@ plt.clf()
 
 
 
-![png](output_88_2.png)
+![output_88_2](https://user-images.githubusercontent.com/49030506/81032046-560c3f00-8e5c-11ea-95e5-2c97a7e009aa.png)
 
 
 
@@ -1737,7 +1737,7 @@ plt.clf()
 ```
 
 
-![png](output_90_0.png)
+![output_90_0](https://user-images.githubusercontent.com/49030506/81032047-56a4d580-8e5c-11ea-83dd-a5c21d983334.png)
 
 
 
@@ -1745,7 +1745,7 @@ plt.clf()
 
 
 
-![png](output_90_2.png)
+![output_90_2](https://user-images.githubusercontent.com/49030506/81032048-56a4d580-8e5c-11ea-8b29-af48201b75b9.png)
 
 
 
@@ -1765,7 +1765,7 @@ sns.pairplot(df1, vars=["fatal_collisions", "premiums"], kind='reg',diag_kind='h
 
 
 
-![png](output_91_1.png)
+![output_91_1](https://user-images.githubusercontent.com/49030506/81032049-56a4d580-8e5c-11ea-844e-2bcd925bc2f9.png)
 
 
 ###### Additional pairplots
@@ -1795,7 +1795,7 @@ plt.clf()
 ```
 
 
-![png](output_93_0.png)
+![output_93_0](https://user-images.githubusercontent.com/49030506/81032050-56a4d580-8e5c-11ea-844f-f988cc3027c1.png)
 
 
 
@@ -1820,7 +1820,8 @@ plt.clf()
 ```
 
 
-![png](output_94_0.png)
+![output_94_0](https://user-images.githubusercontent.com/49030506/81032051-573d6c00-8e5c-11ea-8819-978560416e00.png)
+
 
 
 
@@ -1880,7 +1881,7 @@ plt.clf()
 ```
 
 
-![png](output_99_0.png)
+![output_99_0](https://user-images.githubusercontent.com/49030506/81032052-573d6c00-8e5c-11ea-8e7f-b5b40bcf37e8.png)
 
 
 
@@ -1888,7 +1889,7 @@ plt.clf()
 
 
 
-![png](output_99_2.png)
+![output_99_2](https://user-images.githubusercontent.com/49030506/81032053-573d6c00-8e5c-11ea-8e9f-2d003ae05ecc.png)
 
 
 
@@ -1922,7 +1923,7 @@ plt.clf()
 
 
 
-![png](output_102_1.png)
+![output_102_1](https://user-images.githubusercontent.com/49030506/81032054-573d6c00-8e5c-11ea-9a12-eb3d0f67df5b.png)
 
 
 
@@ -1946,7 +1947,7 @@ plt.clf()
 ```
 
 
-![png](output_103_0.png)
+![output_103_0](https://user-images.githubusercontent.com/49030506/81032055-57d60280-8e5c-11ea-9727-060c0fb362fb.png)
 
 
 
@@ -1979,7 +1980,8 @@ plt.clf()
 ```
 
 
-![png](output_106_0.png)
+![output_106_0](https://user-images.githubusercontent.com/49030506/81032056-57d60280-8e5c-11ea-94d3-09768f45e7d4.png)
+
 
 
 
@@ -2005,7 +2007,8 @@ plt.clf()
 ```
 
 
-![png](output_107_0.png)
+![output_107_0](https://user-images.githubusercontent.com/49030506/81032057-57d60280-8e5c-11ea-830f-852e1bf3529e.png)
+
 
 
 
