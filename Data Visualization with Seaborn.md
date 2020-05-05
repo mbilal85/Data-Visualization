@@ -250,7 +250,7 @@ plt.show()
 ```
 
 
-![png](output_7_0.png)
+![output_7_0](https://user-images.githubusercontent.com/49030506/81033020-147d9300-8e60-11ea-8925-ee34b2169ec0.png)
 
 
 
@@ -263,7 +263,7 @@ plt.show()
 ```
 
 
-![png](output_8_0.png)
+![output_8_0](https://user-images.githubusercontent.com/49030506/81033021-15162980-8e60-11ea-8ba7-e84974334dea.png)
 
 
 ###### While this plot does not show a linear relationship between GDP and percent literate, countries with a lower GDP do seem more likely to have a lower percent of the population that can read and write.
@@ -280,7 +280,7 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![output_10_0](https://user-images.githubusercontent.com/49030506/81033022-15162980-8e60-11ea-8964-df4e0f2caee2.png)
 
 
 ###### Sub-Saharan Africa contains the most countries in this list. 
@@ -331,7 +331,7 @@ plt.show()
 ```
 
 
-![png](output_15_0.png)
+![output_15_0](https://user-images.githubusercontent.com/49030506/81033023-15aec000-8e60-11ea-8617-d2369e8e06b1.png)
 
 
 ###### This plot shows us that most young people reported not being afraid of spiders.
@@ -535,7 +535,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![output_19_0](https://user-images.githubusercontent.com/49030506/81033024-15aec000-8e60-11ea-8498-72922a43f8a8.png)
 
 
 ###### It looks like students with higher absenses tend to have lower grades in both rural and urban areas.
@@ -559,7 +559,7 @@ plt.show()
 ```
 
 
-![png](output_22_0.png)
+![output_22_0](https://user-images.githubusercontent.com/49030506/81033025-15aec000-8e60-11ea-8e0d-75700b691592.png)
 
 
 ###### Students at GP tend to come from an urban location, but students at MS are more evenly split.
@@ -578,7 +578,7 @@ plt.show()
 ```
 
 
-![png](output_25_0.png)
+![output_25_0](https://user-images.githubusercontent.com/49030506/81033026-16475680-8e60-11ea-837d-e871c0bb71d4.png)
 
 
 ###### Modifying the code to create one scatter plot for each level of the variable "study_time", arranged in columns.
@@ -595,7 +595,7 @@ plt.show()
 ```
 
 
-![png](output_27_0.png)
+![output_27_0](https://user-images.githubusercontent.com/49030506/81033027-16475680-8e60-11ea-9296-8e427eb0d50b.png)
 
 
 
@@ -613,7 +613,7 @@ plt.show()
 ```
 
 
-![png](output_28_0.png)
+![output_28_0](https://user-images.githubusercontent.com/49030506/81033028-16475680-8e60-11ea-855f-083565e4ce8f.png)
 
 
 ###### Because these subplots had a large range of x values, it's easier to read them arranged in rows instead of columns.
@@ -636,7 +636,7 @@ plt.show()
 ```
 
 
-![png](output_31_0.png)
+![output_31_0](https://user-images.githubusercontent.com/49030506/81033029-16dfed00-8e60-11ea-9308-888b9893fe10.png)
 
 
 ###### Creating column subplots based on whether the student received support from the school ("schoolsup"), ordered so that "yes" comes before "no".
@@ -655,7 +655,7 @@ plt.show()
 ```
 
 
-![png](output_33_0.png)
+![output_33_0](https://user-images.githubusercontent.com/49030506/81033030-16dfed00-8e60-11ea-844e-72a18c318a14.png)
 
 
 ###### Adding row subplots based on whether the student received support from the family ("famsup"), ordered so that "yes" comes before "no". This will result in subplots based on two factors.
@@ -676,7 +676,7 @@ plt.show()
 ```
 
 
-![png](output_35_0.png)
+![output_35_0](https://user-images.githubusercontent.com/49030506/81033031-16dfed00-8e60-11ea-88f9-ccfd34e44532.png)
 
 
 ###### It looks like the first semester grade does correlate with the final grade, regardless of what kind of support the student received.
@@ -790,7 +790,7 @@ plt.show()
 ```
 
 
-![png](output_44_0.png)
+![output_44_0](https://user-images.githubusercontent.com/49030506/81033032-17788380-8e60-11ea-9005-7ed8b3097888.png)
 
 
 ###### Cars with higher horsepower tend to get a lower number of miles per gallon. They also tend to have a higher number of cylinders.
@@ -816,7 +816,8 @@ plt.show()
 ```
 
 
-![png](output_47_0.png)
+![output_47_0](https://user-images.githubusercontent.com/49030506/81033034-17788380-8e60-11ea-8f94-60198d061b71.png)
+
 
 
 ###### Cars from the USA tend to accelerate more quickly and get lower miles per gallon compared to cars from Europe and Japan.
@@ -841,7 +842,8 @@ plt.show()
 ```
 
 
-![png](output_51_0.png)
+![output_51_0](https://user-images.githubusercontent.com/49030506/81033036-17788380-8e60-11ea-9e93-3e1de505ae82.png)
+
 
 
 ###### Based on the above graph we can say: 
@@ -864,7 +866,7 @@ plt.show()
 ```
 
 
-![png](output_55_0.png)
+![output_55_0](https://user-images.githubusercontent.com/49030506/81033037-18111a00-8e60-11ea-98e1-6e6b1a3c9ecd.png)
 
 
 ###### Unlike the plot in the last code, this plot shows us the distribution of miles per gallon for all the cars in each year.
@@ -888,7 +890,7 @@ plt.show()
 ```
 
 
-![png](output_59_0.png)
+![output_59_0](https://user-images.githubusercontent.com/49030506/81033039-18111a00-8e60-11ea-86f7-358aeccba4f8.png)
 
 
 ###### Now that we've added subgroups, we can see that this downward trend in horsepower was more pronounced among cars from the USA.
@@ -908,7 +910,7 @@ plt.show()
 ```
 
 
-![png](output_62_0.png)
+![output_62_0](https://user-images.githubusercontent.com/49030506/81033040-18111a00-8e60-11ea-8561-54f3bb35c2fa.png)
 
 
 
@@ -924,7 +926,7 @@ plt.show()
 ```
 
 
-![png](output_63_0.png)
+![output_63_0](https://user-images.githubusercontent.com/49030506/81033041-18a9b080-8e60-11ea-8a68-fde15ab9023b.png)
 
 
 ###### Categorizing internet users according to age <=21 and age > 21 and making internet usage plot according to age group. 
@@ -1099,7 +1101,7 @@ plt.show()
 ```
 
 
-![png](output_67_0.png)
+![output_67_0](https://user-images.githubusercontent.com/49030506/81033042-18a9b080-8e60-11ea-86ea-86b18d8d281b.png)
 
 
 ###### It looks like most young people use the internet for a few hours every day, regardless of their age.
@@ -1116,7 +1118,7 @@ plt.show()
 ```
 
 
-![png](output_69_0.png)
+![output_69_0](https://user-images.githubusercontent.com/49030506/81033043-18a9b080-8e60-11ea-9d37-446445bfc9e4.png)
 
 
 ###### It can also be seen that students aged 15 - 21 use internet more than other age groups. 
@@ -1137,7 +1139,7 @@ plt.show()
 ```
 
 
-![png](output_72_0.png)
+![output_72_0](https://user-images.githubusercontent.com/49030506/81033044-19424700-8e60-11ea-9a55-065d79ae6406.png)
 
 
 ###### This plot shows us that males report a much higher interest in math compared to females.
@@ -1158,7 +1160,7 @@ plt.show()
 ```
 
 
-![png](output_75_0.png)
+![output_75_0](https://user-images.githubusercontent.com/49030506/81033045-19424700-8e60-11ea-8362-2ad3bd093656.png)
 
 
 ###### Rearranging the categories so that they are in order from lowest study time to highest.
@@ -1180,7 +1182,7 @@ plt.show()
 ```
 
 
-![png](output_77_0.png)
+![output_77_0](https://user-images.githubusercontent.com/49030506/81033046-19424700-8e60-11ea-9eb8-37b01ba1e527.png)
 
 
 ###### Students in the data who studied more have a slightly higher average grade, but it's not a strong relationship.
@@ -1207,7 +1209,7 @@ plt.show()
 ```
 
 
-![png](output_80_0.png)
+![output_80_0](https://user-images.githubusercontent.com/49030506/81033047-19424700-8e60-11ea-85f5-021b81c6e898.png)
 
 
 ###### The median grade among students studying less than 2 hours is 10.0.
@@ -1231,7 +1233,7 @@ plt.show()
 ```
 
 
-![png](output_83_0.png)
+![output_83_0](https://user-images.githubusercontent.com/49030506/81033048-19424700-8e60-11ea-9b81-270b94cf22a7.png)
 
 
 ###### The median grades are quite similar between each group, but the spread of the distribution looks larger among students who have internet access. We can also see that urban students with internet access have the highest grades and 75% of them have higher than 8. We can also see that internet is having a very bad impact on rural students grades as 25% of them have the lowest grades among all the groups. 
@@ -1251,7 +1253,7 @@ plt.show()
 ```
 
 
-![png](output_86_0.png)
+![output_86_0](https://user-images.githubusercontent.com/49030506/81033050-19dadd80-8e60-11ea-8be8-b3ead273b9de.png)
 
 
 
@@ -1267,7 +1269,7 @@ plt.show()
 ```
 
 
-![png](output_87_0.png)
+![output_87_0](https://user-images.githubusercontent.com/49030506/81033051-19dadd80-8e60-11ea-8e4f-26659a3ad48d.png)
 
 
 
@@ -1285,7 +1287,7 @@ plt.show()
 ```
 
 
-![png](output_88_0.png)
+![output_88_0](https://user-images.githubusercontent.com/49030506/81033052-19dadd80-8e60-11ea-8787-774cef8ae21e.png)
 
 
 ###### The median grade is the same between these two groups, but the max grade is higher among students who are not in a romantic relationship.
@@ -1306,7 +1308,7 @@ plt.show()
 ```
 
 
-![png](output_91_0.png)
+![output_91_0](https://user-images.githubusercontent.com/49030506/81033053-1a737400-8e60-11ea-974e-c01e1f066a68.png)
 
 
 
@@ -1324,7 +1326,7 @@ plt.show()
 ```
 
 
-![png](output_92_0.png)
+![output_92_0](https://user-images.githubusercontent.com/49030506/81033054-1a737400-8e60-11ea-8409-07047afa2457.png)
 
 
 
@@ -1343,7 +1345,7 @@ plt.show()
 ```
 
 
-![png](output_93_0.png)
+![output_93_0](https://user-images.githubusercontent.com/49030506/81033055-1a737400-8e60-11ea-9b3a-23e7d722972a.png)
 
 
 ###### While the average number of absences is slightly smaller among students with higher-quality family relationships, the large confidence intervals tell us that we can't be sure there is an actual association here.
@@ -1363,7 +1365,7 @@ plt.show()
 ```
 
 
-![png](output_96_0.png)
+![output_96_0](https://user-images.githubusercontent.com/49030506/81033056-1b0c0a80-8e60-11ea-8564-86318150e4cc.png)
 
 
 
@@ -1380,7 +1382,7 @@ plt.show()
 ```
 
 
-![png](output_97_0.png)
+![output_97_0](https://user-images.githubusercontent.com/49030506/81033058-1b0c0a80-8e60-11ea-836b-e8b3dd61006a.png)
 
 
 
@@ -1403,7 +1405,7 @@ plt.show()
 ```
 
 
-![png](output_98_0.png)
+![output_98_0](https://user-images.githubusercontent.com/49030506/81033059-1b0c0a80-8e60-11ea-9e55-f90f075011cc.png)
 
 
 ###### It looks like students in a romantic relationships have a higher average and median number of absences in the GP school, but this association does not hold for the MS school.
@@ -1430,7 +1432,7 @@ plt.show()
 ```
 
 
-![png](output_101_0.png)
+![output_101_0](https://user-images.githubusercontent.com/49030506/81033060-1b0c0a80-8e60-11ea-9600-63c96a78f6b2.png)
 
 
 
@@ -1453,7 +1455,7 @@ plt.show()
 ```
 
 
-![png](output_102_0.png)
+![output_102_0](https://user-images.githubusercontent.com/49030506/81033062-1ba4a100-8e60-11ea-9df7-1ffcf0e44930.png)
 
 
 
@@ -1478,7 +1480,7 @@ plt.show()
 ```
 
 
-![png](output_103_0.png)
+![output_103_0](https://user-images.githubusercontent.com/49030506/81033063-1ba4a100-8e60-11ea-90ff-76c7d6f59c70.png)
 
 
 ###### This style and diverging color palette best highlights the difference between the number of young people who usually listen to their parents' advice versus those who don't.
@@ -1500,7 +1502,7 @@ plt.show()
 ```
 
 
-![png](output_106_0.png)
+![output_106_0](https://user-images.githubusercontent.com/49030506/81033064-1ba4a100-8e60-11ea-80bd-d01a58224d2d.png)
 
 
 
@@ -1519,7 +1521,7 @@ plt.show()
 ```
 
 
-![png](output_107_0.png)
+![output_107_0](https://user-images.githubusercontent.com/49030506/81033065-1ba4a100-8e60-11ea-8e6d-77a03dbcb043.png)
 
 
 
@@ -1538,7 +1540,7 @@ plt.show()
 ```
 
 
-![png](output_108_0.png)
+![output_108_0](https://user-images.githubusercontent.com/49030506/81033066-1c3d3780-8e60-11ea-8961-76659ce45cd7.png)
 
 
 
@@ -1557,7 +1559,7 @@ plt.show()
 ```
 
 
-![png](output_109_0.png)
+![output_109_0](https://user-images.githubusercontent.com/49030506/81033067-1c3d3780-8e60-11ea-8f51-1c9051ede4ac.png)
 
 
 ###### Each context name gives Seaborn's suggestion on when to use a given plot scale (in a paper, in an iPython notebook, in a talk/presentation, or in a poster session).
@@ -1582,7 +1584,7 @@ plt.show()
 ```
 
 
-![png](output_112_0.png)
+![output_112_0](https://user-images.githubusercontent.com/49030506/81033068-1c3d3780-8e60-11ea-8986-7a478ea33022.png)
 
 
 ###### FacetGrids vs. AxesSubplots
@@ -1608,7 +1610,7 @@ print(type_of_g)
 
 
 
-![png](output_114_1.png)
+![output_114_1](https://user-images.githubusercontent.com/49030506/81033069-1c3d3780-8e60-11ea-97fa-9e3bb62b4a84.png)
 
 
 ###### Catplot() supports creating subplots, so it creates a FacetGrid object.
@@ -1631,7 +1633,7 @@ plt.show()
 ```
 
 
-![png](output_117_0.png)
+![output_117_0](https://user-images.githubusercontent.com/49030506/81033070-1cd5ce00-8e60-11ea-95a7-129ee422b14d.png)
 
 
 ###### It looks like a car's weight is positively correlated with its horsepower.
@@ -1669,7 +1671,7 @@ plt.show()
 ```
 
 
-![png](output_121_0.png)
+![output_121_0](https://user-images.githubusercontent.com/49030506/81033071-1cd5ce00-8e60-11ea-8a43-6c132a350ba5.png)
 
 
 
@@ -1697,7 +1699,7 @@ plt.show()
 ```
 
 
-![png](output_122_0.png)
+![output_122_0](https://user-images.githubusercontent.com/49030506/81033072-1cd5ce00-8e60-11ea-9613-85d01ed6094f.png)
 
 
 ###### The average miles per gallon achieved is increasing over time for all three places of origin, but the USA is always lower than Europe and Japan.
@@ -1723,7 +1725,7 @@ plt.show()
 ```
 
 
-![png](output_125_0.png)
+![output_125_0](https://user-images.githubusercontent.com/49030506/81033073-1cd5ce00-8e60-11ea-8c5a-92630d29f27f.png)
 
 
 ###### Since higher values indicate slower acceleration, it looks like cars from Japan and Europe have significantly slower acceleration compares to the USA.
@@ -1750,7 +1752,7 @@ plt.show()
 ```
 
 
-![png](output_128_0.png)
+![output_128_0](https://user-images.githubusercontent.com/49030506/81033074-1d6e6480-8e60-11ea-8aa5-452eb4162281.png)
 
 
 ###### After controlling for gender, it looks like younger females are more interested in pets and median age for males is the same for those who are interested in pets vs not. 
@@ -1778,7 +1780,7 @@ plt.show()
 ```
 
 
-![png](output_131_0.png)
+![output_131_0](https://user-images.githubusercontent.com/49030506/81033076-1d6e6480-8e60-11ea-8ad2-0de1ac011b48.png)
 
 
 #                        Thank you for your attention. 
